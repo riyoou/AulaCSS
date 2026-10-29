@@ -110,6 +110,10 @@ h1
 
 .linha p
 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 
     margin: 0;
     padding: 0;
@@ -120,4 +124,9 @@ h1
     width: 100px;
     height: 50px;
 
+}
+
+.exercicio7
+{
+    height: 100vh;
 }

@@ -152,5 +152,16 @@ h1
 .opcoes
 {
     display: flex;
-    justify-items: center;
+}
+
+.opcoes a 
+{
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.opcoes a:hover
+{
+    color:crimson;
 }
